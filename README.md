@@ -1,4 +1,4 @@
-# CT-slice-interpolation
+# ACVTT
 Anisotropic Cross-View Texture Transfer with Multi-Reference Non-Local Attention for CT Slice Interpolation.
 
 # Instructions
